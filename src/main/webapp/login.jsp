@@ -10,7 +10,7 @@
 <link rel="stylesheet"
 	href="fonts/material-icon/css/material-design-iconic-font.min.css">
 
-<!-- Main css -->
+
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -73,7 +73,7 @@
 
 	</div>
 
-	<!-- JS -->
+
 	<script src="vendor/jquery/jquery.min.js"></script>
 	<script src="js/main.js"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
@@ -86,5 +86,5 @@
 	}
 </script>
 </body>
-<!-- This templates was made by Colorlib (https://colorlib.com) -->
+
 </html>
